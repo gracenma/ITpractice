@@ -1,5 +1,5 @@
 <html>
 <body style="background-color:rgb(128, 0, 38);">
-<h2>My 2022 class is much better than the last,This is Grace of God. Pray for me in this DevOps class. Thanks</h2>
+<h2>My first meeting was great,This is Grace of God. Pray for me in this DevOps.Thanks</h2>
 </body>
 </html>
